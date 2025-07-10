@@ -6,7 +6,7 @@ Dataset used:
 MNIST dataset that consists of 70,000 grayscale images of handwwritten digits ranging from 0 to 9. Each pixel is 28*28 pixels. The dataset is divided into 60,000 training images and 10,000 testing images.
 
 Goal:
-Develop a model that learns to correctly ientify handwritte digit given the image.
+Develop a model that learns to correctly identify handwritten digit given the image.
 
 This project contains:
 - Preparation, Defining and Training deep learning model in Python
