@@ -9,15 +9,14 @@ Goal:
 Develop a model that learns to correctly identify handwritten digit given the image.
 
 This project contains:
-- Preparation, Defining and Training deep learning model in Python
-- Evaluation of performance of deep learning model(Accuracy, Confusion matrix, Precision, Recall, F1-score)
 
-modelprep_and_training.ipynb:
-- Data Preparation, Model defination and Training the deep leaning model.
-
-Evaluation.ipynb file contains:
- - Accuracy
- - Confusion matrix
- - Precision
- - Recall
- - F1 score
+- modelprep_and_training.ipynb:
+    - Preparation, Defining and Training deep learning model in Python
+      
+- Evaluation.ipynb:
+ Evaluation of performance of deep learning model(Accuracy, Confusion matrix, Precision, Recall, F1-score)
+     - Accuracy
+     - Confusion matrix
+     - Precision
+     - Recall
+     - F1 score
